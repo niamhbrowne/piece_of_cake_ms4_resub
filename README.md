@@ -18,11 +18,12 @@ The purpose of this project is to create a website that customers of Piece of Ca
 
 
 ### Wireframes
-Home/Index
-About
-Contact Us
-Shop
-About Staff
+<a href='#'>Home</a>
+<a href='#'>About</a>
+<a href='#'>Contact Us</a>
+<a href='#'>Shop</a>
+<a href='#'>Shopping Basket</a>
+
 ## Features
 ### Existing Features
 Navbar
