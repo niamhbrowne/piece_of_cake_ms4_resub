@@ -22,6 +22,7 @@ body {
 
 .logo-font {
     text-transform: uppercase;
+    color: #e47490;
 }
 
 .main-logo-link {
@@ -29,7 +30,7 @@ body {
 }
 
 .shop-now-button {
-    background: black;
+    background: pink;
     color: white;
     min-width: 260px;
 }
@@ -45,7 +46,7 @@ body {
 .btn-black:hover,
 .btn-black:active,
 .btn-black:focus {
-    background: #222;
+    background: #e47490;
     color: white;
 }
 
@@ -55,6 +56,10 @@ body {
 
 .border-black {
     border: 1px solid black !important;
+}
+
+.bg-black {
+    background: pink !important;
 }
 
 /*---------------------------------------------- Media Queries */
