@@ -18,11 +18,11 @@ The purpose of this project is to create a website that customers of Piece of Ca
 
 
 ### Wireframes
-*<a href='#'>Home</a>
-*<a href='#'>About</a>
-*<a href='#'>Contact Us</a>
-*<a href='#'>Shop</a>
-*<a href='#'>Shopping Basket</a>
+* <a href='#'>Home</a>
+* <a href='#'>About</a>
+* <a href='#'>Contact Us</a>
+* <a href='#'>Shop</a>
+* <a href='#'>Shopping Basket</a>
 
 ## Features
 ### Existing Features
@@ -45,17 +45,17 @@ For my third milestone project I used a number of technologies to assist in deve
 I used HTML, CSS and Javascript validators to test the coding aspect of my project and they passed for both. As for the visual aspect of the project I tested it through opening it on a web page browser and clicking on all the links in the navigation menu and reading through each section. I also inspected the code on the browser and looked at it on the IPad Pro and mobile phone devices to make sure it was working on all screen sizes. I clicked through all the links on the navigation bar to ensure there were no broken links and that external links opened on a new tab. I used the contact form to ensure it was working.
 
 ## Deployment
-#### Gitpod
+### Gitpod
 Steps I used on Gitpod to deploy my webpage:
 
 I used clear and concise commits throughout the development of the webpage
 I used git add to save the files
 I used Git push to push the code to Github
-#### GitHub
+### GitHub
 Steps I used on Github to deploy my webpage:
 
 I created a Github repository for the project
-#### Heroku
+### Heroku
 Steps I used on Heroku to deploy my webpage:
 
 Created an account
