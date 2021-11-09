@@ -1,0 +1,82 @@
+/* ------------ followed code institute tutorials to help style base page */
+html {
+    height: 100;
+}
+
+body {
+    background: url('https://scontent.fgla3-1.fna.fbcdn.net/v/t1.6435-9/210102160_5807807619293825_792520895227150125_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=Kbe4rEZ3d7sAX86LYpV&_nc_ht=scontent.fgla3-1.fna&oh=7fa316d2ebad610de063715b20775b13&oe=61AE2853') no-repeat center center fixed;
+    background-size: cover;
+    height: calc(100vh - 164px);
+    color: #555;
+    font-family: 'Lato';
+}
+
+/* from Bulma*/
+.icon {
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+    height: 1.5rem;
+    width: 1.5rem;
+}
+
+.logo-font {
+    text-transform: uppercase;
+}
+
+.main-logo-link {
+    width: fit-content;
+}
+
+.shop-now-button {
+    background: black;
+    color: white;
+    min-width: 260px;
+}
+
+.btn-black {
+    background: black;
+    color: white;
+}
+
+.shop-now-button:hover,
+.shop-now-button:active,
+.shop-now-button:focus,
+.btn-black:hover,
+.btn-black:active,
+.btn-black:focus {
+    background: #222;
+    color: white;
+}
+
+.text-black {
+    color: #000 !important;
+}
+
+.border-black {
+    border: 1px solid black !important;
+}
+
+/*---------------------------------------------- Media Queries */
+
+/* for larger scrrens */
+@media (min-width: 992px) {
+    .container {
+        max-width: 80%;
+    }
+}
+
+/* fixed top navbar only for medium and up screens*/
+@media (min-width: 992px) {
+    .fixed-top-desktop-only {
+        position: fixed;
+        top: 0;
+        right: 0;
+        left: 0;
+        z-index: 1030;
+    }
+
+    .header-container {
+        padding-top: 164px;
+    }
+}
