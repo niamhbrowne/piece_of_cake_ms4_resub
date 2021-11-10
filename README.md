@@ -36,13 +36,7 @@ The purpose of this project is to create a website that customers of Piece of Ca
 
 ## Features
 ### Existing Features
-Navbar
-Button on home page that takes user straight to the shop
-Form to submit enquiry message
-Images on every page to interact with users
-Link to Facebook page
-Links on home page so users can easily find pages with more information on them
-Stand out headings and titles
+
 ### Features Left to Implement
 
 ## Technologies Used
@@ -74,23 +68,21 @@ Deployed app on Heroku
 Re-freshed the browser to make sure it had deployed correctly
 ## Credits
 ### Dependencies
-Flask
-Gitpod
-GitHub
-Heroku
-Bootstrap
-Code
-Code Institute
-Bootstrap
-W3Schools
-Heroku
+* Gitpod
+* GitHub
+* Heroku
+* Bootstrap
+* Code Institute
+* Bootstrap
+* W3Schools
+* Django
 ## Where I got my content from
-Piece of Cake Omagh
-Acknowledgement
-Below are links to where I found inspiration and where I sourced code.
+* Piece of Cake Omagh
+* Acknowledgement
+* Below are links to where I found inspiration and where I sourced code.
 
-Code Institute
-Bootstrap
-Piece of Cake
-Heroku
-Code Institute walkthrough project
+* Code Institute
+* Bootstrap
+* Piece of Cake
+* Heroku
+* Code Institute walkthrough project
