@@ -1,9 +1,9 @@
 # Piece of Cake MS4 
 
 ## Purpose of Project
-The purpose of this project is to create a website that customers of Piece of Cake can go onto, message with enquiries, find out more about the business and their staff and to view their products.
+The purpose of this project is to create a website that customers of Piece of Cake can go onto, message with enquiries, find out more about the business and their staff and to view their products and shop their products.
 
-<a href='#'>Live Link</a>
+<a href=''>Live Link</a>
 
 ## UX
 ### Project Goals
@@ -19,10 +19,20 @@ The purpose of this project is to create a website that customers of Piece of Ca
 
 ### Wireframes
 * <a href='#'>Home</a>
-* <a href='#'>About</a>
+* <a href='#'>About Shop</a>
+* <a href='#'>About Staff</a>
+* <a href='#'>About Owners</a>
 * <a href='#'>Contact Us</a>
 * <a href='#'>Shop</a>
+* <a href='#'>Shop - Cupcakes</a>
+* <a href='#'>Shop - Tray Bakes</a>
+* <a href='#'>Shop - Limited Edition Boxes</a>
+* <a href='#'>Galery</a>
 * <a href='#'>Shopping Basket</a>
+* <a href='#'>My Profile</a>
+* <a href='#'>My Account</a>
+* <a href='#'>Login/Logout</a>
+
 
 ## Features
 ### Existing Features
